@@ -1,12 +1,3 @@
-# Dataset
-# Cuaca, Waktu, Suhu, Membawa_Payung
-# Cerah, Pagi, Dingin, Tidak
-# Cerah, Siang, Panas, Tidak
-# Hujan, Pagi, Dingin, Ya
-# Hujan, Sore, Sejuk, Ya
-# Berawan, Pagi, Sejuk, Tidak
-# Hujan, Siang, Panas, Ya
-
 # Ini adalah dataset yang digunakan untuk melatih dan menguji model.
 # Setiap entri berisi informasi tentang cuaca, waktu, suhu, dan apakah seseorang membawa payung.
 data = [
